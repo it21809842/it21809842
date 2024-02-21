@@ -1,5 +1,5 @@
-###<h1 align="center">Hi 👋, I'm Wasana Jayamali</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h1 align="center">Hi 👋, I'm Wasana Jayamali</h1>
+<h3 align="center"> passionate Data Science</h3>
 
 ---
 
