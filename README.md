@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wasana Jayamali</h1>
-<h3 align="center"> passionate Data Science</h3>
+<h3 align="center"> passionate in Data Science</h3>
 
 ---
 
