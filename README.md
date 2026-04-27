@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Fresh Graduate at **SLIIT**
 
 - 📫 How to reach me **wasanajayamali10@gmail.com**
 
